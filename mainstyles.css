@@ -2,12 +2,19 @@
 h1 {
     text-align: center;
     border: double;
+    background-color: #a9faff;
 
 }
 body {
-    background-color: #5b8080;
+    background-color: #e8fdff;
     alignment: left;
 
+}
+
+nav {
+    text-align: center;
+    background-color: #a9faff;
+    border: groove;
 }
 
 
