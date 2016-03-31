@@ -1,7 +1,7 @@
 @charset "utf-8";
 h1 {
     text-align: center;
-    border: double;
+    border: outset;
     background-color: #c9e3ff;
 
 }
@@ -15,7 +15,7 @@ body {
 nav {
     text-align: center;
     background-color: #c9e3ff;
-    border: groove;
+    border: outset;
 }
 
 
