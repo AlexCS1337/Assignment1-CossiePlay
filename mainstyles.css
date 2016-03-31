@@ -6,14 +6,15 @@ h1 {
 
 }
 body {
-    background-color: #e8fdff;
+    background-color: #7e9eff;
     alignment: left;
+    margin-left: 20px;
 
 }
 
 nav {
     text-align: center;
-    background-color: #a9faff;
+    background-color: #c9e3ff;
     border: groove;
 }
 
